@@ -6,6 +6,8 @@ This system consists of two main user types:
 • Regular Users: Can explore products, add items to the cart, and proceed with orders.
 • Admins: Have full control over the website, including user management, product management, and order tracking.
 
+# Language used - Html, css, javascript, php, sql
+
 # Home Page
 ![image alt](https://github.com/JALAL-00/Web-Technologies-Final-Project-E-commerce-Website-Ecomet/blob/1053ca1f3326cdb29ffd7ba5a4a280e72ff93e10/README/img1.png)
 
